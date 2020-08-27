@@ -6,3 +6,5 @@ Tokrat je bilo v načrtu, s pomočjo uporabe GNSS signala, lokacije zbirnih mest
 Pomagali smo si z navodili iz: Android SDK Augmented Reality. Avtor: Shane Conder & Lauren Darcey 
 
 Test: https://pjevic.com/ar/zbirna.html
+
+Diplomska naloga: https://repozitorij.uni-lj.si/IzpisGradiva.php?id=109448&lang=eng
